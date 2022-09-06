@@ -5,7 +5,7 @@
 </div>  
   
 
-### <div align="center">Hello! I'm Dallas, a full-stack developer and forever learner 👨‍💻</div>  
+### <div align="center">I'm a full-stack developer and forever learner 👨‍💻</div>  
   
 
 - 🎓 I am currently enrolled in General Assembly's Software Engineering Bootcamp   
