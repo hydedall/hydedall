@@ -1,4 +1,6 @@
+<div align="center">
 <h1>Hello! My name is Dallas, and welcome to my page.</h1>
+</div>
 
 <div align="center">
 <img src="https://64.media.tumblr.com/1acaf229d490e5d021eeb13c976a9781/tumblr_owmzf7plAs1rv6iido1_540.gif" align="center" style="width: 100%" />
