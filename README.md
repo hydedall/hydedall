@@ -6,13 +6,13 @@
 ### <div align="center">Hello! I'm Dallas, a full-stack developer and forever learner 👨‍💻</div>  
   
 
-- 🎓 I am currently enrolled in General Assembly's Software Engineering   
+- 🎓 I am currently enrolled in General Assembly's Software Engineering Bootcamp   
   
 
 - 🌱 I’m currently learning Node, EJS, and Express  
   
 
-- 🎮 When I'm not coding you can find me playing fighting games  
+- 🎮 When I'm not coding you can find me playing fighting games or rock climbing
   
 
 - ⚡ I am very passionate about front-end work  
